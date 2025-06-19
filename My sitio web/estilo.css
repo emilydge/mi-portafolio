@@ -1,0 +1,35 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #da8bbc;
+    color: #000000;
+}
+header {
+    background-color: #be8ce2;
+    color: rgb(7, 7, 7);
+    padding: 20px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 8px;
+}
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #222;
+    color: white;
+}  
